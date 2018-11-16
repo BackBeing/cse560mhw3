@@ -1,0 +1,1 @@
+system.l2.overall_mshr_miss_rate::total      0.411422                       # mshr miss rate for overall accesses

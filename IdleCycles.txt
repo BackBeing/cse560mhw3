@@ -1,0 +1,1 @@
+system.cpu.rename.IdleCycles                  2602468                       # Number of cycles rename is idle

@@ -1,0 +1,1 @@
+system.cpu.rename.ROBFullEvents                398323                       # Number of times rename has blocked due to ROB full

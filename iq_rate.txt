@@ -1,0 +1,1 @@
+system.cpu.iq.rate                           2.693054                       # Inst issue rate
