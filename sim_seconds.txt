@@ -1,196 +1,196 @@
-256   4    4   
+1024  4    4   
 sim_seconds                                  0.017686                       # Number of seconds simulated
-256   8    4   
+1024  8    4   
 sim_seconds                                  0.011179                       # Number of seconds simulated
-256   16   4   
+1024  16   4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-256   32   4   
+1024  32   4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-256   64   4   
+1024  64   4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-256   128  4   
+1024  128  4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-256   256  4   
+1024  256  4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-256   4    8   
+1024  4    8   
 sim_seconds                                  0.017686                       # Number of seconds simulated
-256   8    8   
+1024  8    8   
 sim_seconds                                  0.009978                       # Number of seconds simulated
-256   16   8   
+1024  16   8   
 sim_seconds                                  0.006824                       # Number of seconds simulated
-256   32   8   
+1024  32   8   
 sim_seconds                                  0.006509                       # Number of seconds simulated
-256   64   8   
+1024  64   8   
 sim_seconds                                  0.006509                       # Number of seconds simulated
-256   128  8   
+1024  128  8   
 sim_seconds                                  0.006509                       # Number of seconds simulated
-256   256  8   
+1024  256  8   
 sim_seconds                                  0.006509                       # Number of seconds simulated
-256   4    16  
+1024  4    16  
 sim_seconds                                  0.017686                       # Number of seconds simulated
-256   8    16  
+1024  8    16  
 sim_seconds                                  0.009978                       # Number of seconds simulated
-256   16   16  
+1024  16   16  
 sim_seconds                                  0.006344                       # Number of seconds simulated
-256   32   16  
+1024  32   16  
 sim_seconds                                  0.004974                       # Number of seconds simulated
-256   64   16  
+1024  64   16  
 sim_seconds                                  0.004920                       # Number of seconds simulated
-256   128  16  
+1024  128  16  
 sim_seconds                                  0.004920                       # Number of seconds simulated
-256   256  16  
+1024  256  16  
 sim_seconds                                  0.004920                       # Number of seconds simulated
-256   4    32  
+1024  4    32  
 sim_seconds                                  0.017686                       # Number of seconds simulated
-256   8    32  
+1024  8    32  
 sim_seconds                                  0.009978                       # Number of seconds simulated
-256   16   32  
+1024  16   32  
 sim_seconds                                  0.006344                       # Number of seconds simulated
-256   32   32  
+1024  32   32  
 sim_seconds                                  0.004741                       # Number of seconds simulated
-256   64   32  
+1024  64   32  
 sim_seconds                                  0.004220                       # Number of seconds simulated
-256   128  32  
+1024  128  32  
 sim_seconds                                  0.004220                       # Number of seconds simulated
-256   256  32  
+1024  256  32  
 sim_seconds                                  0.004220                       # Number of seconds simulated
-256   4    64  
+1024  4    64  
 sim_seconds                                  0.017686                       # Number of seconds simulated
-256   8    64  
+1024  8    64  
 sim_seconds                                  0.009978                       # Number of seconds simulated
-256   16   64  
+1024  16   64  
 sim_seconds                                  0.006344                       # Number of seconds simulated
-256   32   64  
+1024  32   64  
 sim_seconds                                  0.004741                       # Number of seconds simulated
-256   64   64  
+1024  64   64  
 sim_seconds                                  0.003867                       # Number of seconds simulated
-256   128  64  
+1024  128  64  
 sim_seconds                                  0.003777                       # Number of seconds simulated
-256   256  64  
+1024  256  64  
 sim_seconds                                  0.003777                       # Number of seconds simulated
-256   4    128 
+1024  4    128 
 sim_seconds                                  0.017686                       # Number of seconds simulated
-256   8    128 
+1024  8    128 
 sim_seconds                                  0.009978                       # Number of seconds simulated
-256   16   128 
+1024  16   128 
 sim_seconds                                  0.006344                       # Number of seconds simulated
-256   32   128 
+1024  32   128 
 sim_seconds                                  0.004741                       # Number of seconds simulated
-256   64   128 
+1024  64   128 
 sim_seconds                                  0.003867                       # Number of seconds simulated
-256   128  128 
+1024  128  128 
 sim_seconds                                  0.003761                       # Number of seconds simulated
-256   256  128 
+1024  256  128 
 sim_seconds                                  0.003751                       # Number of seconds simulated
-256   4    256 
+1024  4    256 
 sim_seconds                                  0.017686                       # Number of seconds simulated
-256   8    256 
+1024  8    256 
 sim_seconds                                  0.009978                       # Number of seconds simulated
-256   16   256 
+1024  16   256 
 sim_seconds                                  0.006344                       # Number of seconds simulated
-256   32   256 
+1024  32   256 
 sim_seconds                                  0.004741                       # Number of seconds simulated
-256   64   256 
+1024  64   256 
 sim_seconds                                  0.003867                       # Number of seconds simulated
-256   128  256 
+1024  128  256 
 sim_seconds                                  0.003761                       # Number of seconds simulated
-256   256  256 
+1024  256  256 
 sim_seconds                                  0.003751                       # Number of seconds simulated
-512   4    4   
+2048  4    4   
 sim_seconds                                  0.017686                       # Number of seconds simulated
-512   8    4   
+2048  8    4   
 sim_seconds                                  0.011179                       # Number of seconds simulated
-512   16   4   
+2048  16   4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-512   32   4   
+2048  32   4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-512   64   4   
+2048  64   4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-512   128  4   
+2048  128  4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-512   256  4   
+2048  256  4   
 sim_seconds                                  0.010527                       # Number of seconds simulated
-512   4    8   
+2048  4    8   
 sim_seconds                                  0.017686                       # Number of seconds simulated
-512   8    8   
+2048  8    8   
 sim_seconds                                  0.009978                       # Number of seconds simulated
-512   16   8   
+2048  16   8   
 sim_seconds                                  0.006824                       # Number of seconds simulated
-512   32   8   
+2048  32   8   
 sim_seconds                                  0.006509                       # Number of seconds simulated
-512   64   8   
+2048  64   8   
 sim_seconds                                  0.006509                       # Number of seconds simulated
-512   128  8   
+2048  128  8   
 sim_seconds                                  0.006509                       # Number of seconds simulated
-512   256  8   
+2048  256  8   
 sim_seconds                                  0.006509                       # Number of seconds simulated
-512   4    16  
+2048  4    16  
 sim_seconds                                  0.017686                       # Number of seconds simulated
-512   8    16  
+2048  8    16  
 sim_seconds                                  0.009978                       # Number of seconds simulated
-512   16   16  
+2048  16   16  
 sim_seconds                                  0.006344                       # Number of seconds simulated
-512   32   16  
+2048  32   16  
 sim_seconds                                  0.004974                       # Number of seconds simulated
-512   64   16  
+2048  64   16  
 sim_seconds                                  0.004920                       # Number of seconds simulated
-512   128  16  
+2048  128  16  
 sim_seconds                                  0.004920                       # Number of seconds simulated
-512   256  16  
+2048  256  16  
 sim_seconds                                  0.004920                       # Number of seconds simulated
-512   4    32  
+2048  4    32  
 sim_seconds                                  0.017686                       # Number of seconds simulated
-512   8    32  
+2048  8    32  
 sim_seconds                                  0.009978                       # Number of seconds simulated
-512   16   32  
+2048  16   32  
 sim_seconds                                  0.006344                       # Number of seconds simulated
-512   32   32  
+2048  32   32  
 sim_seconds                                  0.004741                       # Number of seconds simulated
-512   64   32  
+2048  64   32  
 sim_seconds                                  0.004220                       # Number of seconds simulated
-512   128  32  
+2048  128  32  
 sim_seconds                                  0.004220                       # Number of seconds simulated
-512   256  32  
+2048  256  32  
 sim_seconds                                  0.004220                       # Number of seconds simulated
-512   4    64  
+2048  4    64  
 sim_seconds                                  0.017686                       # Number of seconds simulated
-512   8    64  
+2048  8    64  
 sim_seconds                                  0.009978                       # Number of seconds simulated
-512   16   64  
+2048  16   64  
 sim_seconds                                  0.006344                       # Number of seconds simulated
-512   32   64  
+2048  32   64  
 sim_seconds                                  0.004741                       # Number of seconds simulated
-512   64   64  
+2048  64   64  
 sim_seconds                                  0.003867                       # Number of seconds simulated
-512   128  64  
+2048  128  64  
 sim_seconds                                  0.003777                       # Number of seconds simulated
-512   256  64  
+2048  256  64  
 sim_seconds                                  0.003777                       # Number of seconds simulated
-512   4    128 
+2048  4    128 
 sim_seconds                                  0.017686                       # Number of seconds simulated
-512   8    128 
+2048  8    128 
 sim_seconds                                  0.009978                       # Number of seconds simulated
-512   16   128 
+2048  16   128 
 sim_seconds                                  0.006344                       # Number of seconds simulated
-512   32   128 
+2048  32   128 
 sim_seconds                                  0.004741                       # Number of seconds simulated
-512   64   128 
+2048  64   128 
 sim_seconds                                  0.003867                       # Number of seconds simulated
-512   128  128 
+2048  128  128 
 sim_seconds                                  0.003761                       # Number of seconds simulated
-512   256  128 
+2048  256  128 
 sim_seconds                                  0.003751                       # Number of seconds simulated
-512   4    256 
+2048  4    256 
 sim_seconds                                  0.017686                       # Number of seconds simulated
-512   8    256 
+2048  8    256 
 sim_seconds                                  0.009978                       # Number of seconds simulated
-512   16   256 
+2048  16   256 
 sim_seconds                                  0.006344                       # Number of seconds simulated
-512   32   256 
+2048  32   256 
 sim_seconds                                  0.004741                       # Number of seconds simulated
-512   64   256 
+2048  64   256 
 sim_seconds                                  0.003867                       # Number of seconds simulated
-512   128  256 
+2048  128  256 
 sim_seconds                                  0.003761                       # Number of seconds simulated
-512   256  256 
+2048  256  256 
 sim_seconds                                  0.003751                       # Number of seconds simulated
