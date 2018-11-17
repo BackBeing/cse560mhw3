@@ -865,7 +865,7 @@
                 "simpoint_start_insts": [], 
                 "max_insts_any_thread": 0, 
                 "smtROBThreshold": 100, 
-                "numIQEntries": 4, 
+                "numIQEntries": 256, 
                 "branchPred": {
                     "numThreads": 1, 
                     "BTBEntries": 4096, 
@@ -1008,7 +1008,7 @@
                 "commitToRenameDelay": 1, 
                 "system": "system", 
                 "checker": null, 
-                "numPhysFloatRegs": 256, 
+                "numPhysFloatRegs": 512, 
                 "eventq_index": 0, 
                 "default_p_state": "UNDEFINED", 
                 "type": "DerivO3CPU", 

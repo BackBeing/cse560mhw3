@@ -1,4 +1,3 @@
-system.cpu.iq.rate                           2.693054                       # Inst issue rate
 256   4    4   
 system.cpu.iq.rate                           0.570958                       # Inst issue rate
 256   8    4   
@@ -13,3 +12,185 @@ system.cpu.iq.rate                           0.959242                       # In
 system.cpu.iq.rate                           0.959242                       # Inst issue rate
 256   256  4   
 system.cpu.iq.rate                           0.959242                       # Inst issue rate
+256   4    8   
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+256   8    8   
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+256   16   8   
+system.cpu.iq.rate                           1.479806                       # Inst issue rate
+256   32   8   
+system.cpu.iq.rate                           1.551605                       # Inst issue rate
+256   64   8   
+system.cpu.iq.rate                           1.551624                       # Inst issue rate
+256   128  8   
+system.cpu.iq.rate                           1.551624                       # Inst issue rate
+256   256  8   
+system.cpu.iq.rate                           1.551624                       # Inst issue rate
+256   4    16  
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+256   8    16  
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+256   16   16  
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+256   32   16  
+system.cpu.iq.rate                           2.030619                       # Inst issue rate
+256   64   16  
+system.cpu.iq.rate                           2.052731                       # Inst issue rate
+256   128  16  
+system.cpu.iq.rate                           2.052744                       # Inst issue rate
+256   256  16  
+system.cpu.iq.rate                           2.052744                       # Inst issue rate
+256   4    32  
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+256   8    32  
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+256   16   32  
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+256   32   32  
+system.cpu.iq.rate                           2.130221                       # Inst issue rate
+256   64   32  
+system.cpu.iq.rate                           2.393587                       # Inst issue rate
+256   128  32  
+system.cpu.iq.rate                           2.393691                       # Inst issue rate
+256   256  32  
+system.cpu.iq.rate                           2.393589                       # Inst issue rate
+256   4    64  
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+256   8    64  
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+256   16   64  
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+256   32   64  
+system.cpu.iq.rate                           2.130221                       # Inst issue rate
+256   64   64  
+system.cpu.iq.rate                           2.611828                       # Inst issue rate
+256   128  64  
+system.cpu.iq.rate                           2.674641                       # Inst issue rate
+256   256  64  
+system.cpu.iq.rate                           2.674646                       # Inst issue rate
+256   4    128 
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+256   8    128 
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+256   16   128 
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+256   32   128 
+system.cpu.iq.rate                           2.130221                       # Inst issue rate
+256   64   128 
+system.cpu.iq.rate                           2.611828                       # Inst issue rate
+256   128  128 
+system.cpu.iq.rate                           2.685516                       # Inst issue rate
+256   256  128 
+system.cpu.iq.rate                           2.693057                       # Inst issue rate
+256   4    256 
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+256   8    256 
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+256   16   256 
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+256   32   256 
+system.cpu.iq.rate                           2.130221                       # Inst issue rate
+256   64   256 
+system.cpu.iq.rate                           2.611828                       # Inst issue rate
+256   128  256 
+system.cpu.iq.rate                           2.685516                       # Inst issue rate
+256   256  256 
+system.cpu.iq.rate                           2.693054                       # Inst issue rate
+512   4    4   
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+512   8    4   
+system.cpu.iq.rate                           0.903346                       # Inst issue rate
+512   16   4   
+system.cpu.iq.rate                           0.959240                       # Inst issue rate
+512   32   4   
+system.cpu.iq.rate                           0.959242                       # Inst issue rate
+512   64   4   
+system.cpu.iq.rate                           0.959242                       # Inst issue rate
+512   128  4   
+system.cpu.iq.rate                           0.959242                       # Inst issue rate
+512   256  4   
+system.cpu.iq.rate                           0.959242                       # Inst issue rate
+512   4    8   
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+512   8    8   
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+512   16   8   
+system.cpu.iq.rate                           1.479806                       # Inst issue rate
+512   32   8   
+system.cpu.iq.rate                           1.551605                       # Inst issue rate
+512   64   8   
+system.cpu.iq.rate                           1.551624                       # Inst issue rate
+512   128  8   
+system.cpu.iq.rate                           1.551624                       # Inst issue rate
+512   256  8   
+system.cpu.iq.rate                           1.551624                       # Inst issue rate
+512   4    16  
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+512   8    16  
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+512   16   16  
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+512   32   16  
+system.cpu.iq.rate                           2.030619                       # Inst issue rate
+512   64   16  
+system.cpu.iq.rate                           2.052731                       # Inst issue rate
+512   128  16  
+system.cpu.iq.rate                           2.052744                       # Inst issue rate
+512   256  16  
+system.cpu.iq.rate                           2.052744                       # Inst issue rate
+512   4    32  
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+512   8    32  
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+512   16   32  
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+512   32   32  
+system.cpu.iq.rate                           2.130221                       # Inst issue rate
+512   64   32  
+system.cpu.iq.rate                           2.393587                       # Inst issue rate
+512   128  32  
+system.cpu.iq.rate                           2.393691                       # Inst issue rate
+512   256  32  
+system.cpu.iq.rate                           2.393589                       # Inst issue rate
+512   4    64  
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+512   8    64  
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+512   16   64  
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+512   32   64  
+system.cpu.iq.rate                           2.130221                       # Inst issue rate
+512   64   64  
+system.cpu.iq.rate                           2.611828                       # Inst issue rate
+512   128  64  
+system.cpu.iq.rate                           2.674641                       # Inst issue rate
+512   256  64  
+system.cpu.iq.rate                           2.674646                       # Inst issue rate
+512   4    128 
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+512   8    128 
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+512   16   128 
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+512   32   128 
+system.cpu.iq.rate                           2.130221                       # Inst issue rate
+512   64   128 
+system.cpu.iq.rate                           2.611828                       # Inst issue rate
+512   128  128 
+system.cpu.iq.rate                           2.685516                       # Inst issue rate
+512   256  128 
+system.cpu.iq.rate                           2.693057                       # Inst issue rate
+512   4    256 
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+512   8    256 
+system.cpu.iq.rate                           1.012049                       # Inst issue rate
+512   16   256 
+system.cpu.iq.rate                           1.591953                       # Inst issue rate
+512   32   256 
+system.cpu.iq.rate                           2.130221                       # Inst issue rate
+512   64   256 
+system.cpu.iq.rate                           2.611828                       # Inst issue rate
+512   128  256 
+system.cpu.iq.rate                           2.685516                       # Inst issue rate
+512   256  256 
+system.cpu.iq.rate                           2.693054                       # Inst issue rate

@@ -1,4 +1,3 @@
-system.cpu.rename.IdleCycles                  2602468                       # Number of cycles rename is idle
 256   4    4   
 system.cpu.rename.IdleCycles                   207109                       # Number of cycles rename is idle
 256   8    4   
@@ -13,3 +12,185 @@ system.cpu.rename.IdleCycles                  1348544                       # Nu
 system.cpu.rename.IdleCycles                  1348544                       # Number of cycles rename is idle
 256   256  4   
 system.cpu.rename.IdleCycles                  1348544                       # Number of cycles rename is idle
+256   4    8   
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+256   8    8   
+system.cpu.rename.IdleCycles                   716896                       # Number of cycles rename is idle
+256   16   8   
+system.cpu.rename.IdleCycles                  1484822                       # Number of cycles rename is idle
+256   32   8   
+system.cpu.rename.IdleCycles                  1581475                       # Number of cycles rename is idle
+256   64   8   
+system.cpu.rename.IdleCycles                  1581474                       # Number of cycles rename is idle
+256   128  8   
+system.cpu.rename.IdleCycles                  1581474                       # Number of cycles rename is idle
+256   256  8   
+system.cpu.rename.IdleCycles                  1581474                       # Number of cycles rename is idle
+256   4    16  
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+256   8    16  
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+256   16   16  
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+256   32   16  
+system.cpu.rename.IdleCycles                  1562349                       # Number of cycles rename is idle
+256   64   16  
+system.cpu.rename.IdleCycles                  1557126                       # Number of cycles rename is idle
+256   128  16  
+system.cpu.rename.IdleCycles                  1557258                       # Number of cycles rename is idle
+256   256  16  
+system.cpu.rename.IdleCycles                  1557258                       # Number of cycles rename is idle
+256   4    32  
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+256   8    32  
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+256   16   32  
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+256   32   32  
+system.cpu.rename.IdleCycles                  1288861                       # Number of cycles rename is idle
+256   64   32  
+system.cpu.rename.IdleCycles                  2016232                       # Number of cycles rename is idle
+256   128  32  
+system.cpu.rename.IdleCycles                  2016391                       # Number of cycles rename is idle
+256   256  32  
+system.cpu.rename.IdleCycles                  2016421                       # Number of cycles rename is idle
+256   4    64  
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+256   8    64  
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+256   16   64  
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+256   32   64  
+system.cpu.rename.IdleCycles                  1288861                       # Number of cycles rename is idle
+256   64   64  
+system.cpu.rename.IdleCycles                  2367389                       # Number of cycles rename is idle
+256   128  64  
+system.cpu.rename.IdleCycles                  2524708                       # Number of cycles rename is idle
+256   256  64  
+system.cpu.rename.IdleCycles                  2524783                       # Number of cycles rename is idle
+256   4    128 
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+256   8    128 
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+256   16   128 
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+256   32   128 
+system.cpu.rename.IdleCycles                  1288861                       # Number of cycles rename is idle
+256   64   128 
+system.cpu.rename.IdleCycles                  2367389                       # Number of cycles rename is idle
+256   128  128 
+system.cpu.rename.IdleCycles                  2535065                       # Number of cycles rename is idle
+256   256  128 
+system.cpu.rename.IdleCycles                  2651532                       # Number of cycles rename is idle
+256   4    256 
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+256   8    256 
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+256   16   256 
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+256   32   256 
+system.cpu.rename.IdleCycles                  1288861                       # Number of cycles rename is idle
+256   64   256 
+system.cpu.rename.IdleCycles                  2367389                       # Number of cycles rename is idle
+256   128  256 
+system.cpu.rename.IdleCycles                  2535065                       # Number of cycles rename is idle
+256   256  256 
+system.cpu.rename.IdleCycles                  2602468                       # Number of cycles rename is idle
+512   4    4   
+system.cpu.rename.IdleCycles                   207109                       # Number of cycles rename is idle
+512   8    4   
+system.cpu.rename.IdleCycles                  1145195                       # Number of cycles rename is idle
+512   16   4   
+system.cpu.rename.IdleCycles                  1348356                       # Number of cycles rename is idle
+512   32   4   
+system.cpu.rename.IdleCycles                  1348543                       # Number of cycles rename is idle
+512   64   4   
+system.cpu.rename.IdleCycles                  1348544                       # Number of cycles rename is idle
+512   128  4   
+system.cpu.rename.IdleCycles                  1348544                       # Number of cycles rename is idle
+512   256  4   
+system.cpu.rename.IdleCycles                  1348544                       # Number of cycles rename is idle
+512   4    8   
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+512   8    8   
+system.cpu.rename.IdleCycles                   716896                       # Number of cycles rename is idle
+512   16   8   
+system.cpu.rename.IdleCycles                  1484822                       # Number of cycles rename is idle
+512   32   8   
+system.cpu.rename.IdleCycles                  1581475                       # Number of cycles rename is idle
+512   64   8   
+system.cpu.rename.IdleCycles                  1581474                       # Number of cycles rename is idle
+512   128  8   
+system.cpu.rename.IdleCycles                  1581474                       # Number of cycles rename is idle
+512   256  8   
+system.cpu.rename.IdleCycles                  1581474                       # Number of cycles rename is idle
+512   4    16  
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+512   8    16  
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+512   16   16  
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+512   32   16  
+system.cpu.rename.IdleCycles                  1562349                       # Number of cycles rename is idle
+512   64   16  
+system.cpu.rename.IdleCycles                  1557126                       # Number of cycles rename is idle
+512   128  16  
+system.cpu.rename.IdleCycles                  1557258                       # Number of cycles rename is idle
+512   256  16  
+system.cpu.rename.IdleCycles                  1557258                       # Number of cycles rename is idle
+512   4    32  
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+512   8    32  
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+512   16   32  
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+512   32   32  
+system.cpu.rename.IdleCycles                  1288861                       # Number of cycles rename is idle
+512   64   32  
+system.cpu.rename.IdleCycles                  2016232                       # Number of cycles rename is idle
+512   128  32  
+system.cpu.rename.IdleCycles                  2016391                       # Number of cycles rename is idle
+512   256  32  
+system.cpu.rename.IdleCycles                  2016421                       # Number of cycles rename is idle
+512   4    64  
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+512   8    64  
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+512   16   64  
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+512   32   64  
+system.cpu.rename.IdleCycles                  1288861                       # Number of cycles rename is idle
+512   64   64  
+system.cpu.rename.IdleCycles                  2367389                       # Number of cycles rename is idle
+512   128  64  
+system.cpu.rename.IdleCycles                  2524708                       # Number of cycles rename is idle
+512   256  64  
+system.cpu.rename.IdleCycles                  2524783                       # Number of cycles rename is idle
+512   4    128 
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+512   8    128 
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+512   16   128 
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+512   32   128 
+system.cpu.rename.IdleCycles                  1288861                       # Number of cycles rename is idle
+512   64   128 
+system.cpu.rename.IdleCycles                  2367389                       # Number of cycles rename is idle
+512   128  128 
+system.cpu.rename.IdleCycles                  2535065                       # Number of cycles rename is idle
+512   256  128 
+system.cpu.rename.IdleCycles                  2651532                       # Number of cycles rename is idle
+512   4    256 
+system.cpu.rename.IdleCycles                   207110                       # Number of cycles rename is idle
+512   8    256 
+system.cpu.rename.IdleCycles                   716895                       # Number of cycles rename is idle
+512   16   256 
+system.cpu.rename.IdleCycles                  1265520                       # Number of cycles rename is idle
+512   32   256 
+system.cpu.rename.IdleCycles                  1288861                       # Number of cycles rename is idle
+512   64   256 
+system.cpu.rename.IdleCycles                  2367389                       # Number of cycles rename is idle
+512   128  256 
+system.cpu.rename.IdleCycles                  2535065                       # Number of cycles rename is idle
+512   256  256 
+system.cpu.rename.IdleCycles                  2602468                       # Number of cycles rename is idle

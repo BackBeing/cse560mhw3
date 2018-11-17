@@ -1,4 +1,3 @@
-system.cpu.rename.ROBFullEvents                398323                       # Number of times rename has blocked due to ROB full
 256   4    4   
 system.cpu.rename.ROBFullEvents              12008632                       # Number of times rename has blocked due to ROB full
 256   8    4   
@@ -10,3 +9,166 @@ system.cpu.rename.ROBFullEvents                     2                       # Nu
 256   64   4   
 256   128  4   
 256   256  4   
+256   4    8   
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+256   8    8   
+system.cpu.rename.ROBFullEvents               7815962                       # Number of times rename has blocked due to ROB full
+256   16   8   
+system.cpu.rename.ROBFullEvents               1586391                       # Number of times rename has blocked due to ROB full
+256   32   8   
+system.cpu.rename.ROBFullEvents                    13                       # Number of times rename has blocked due to ROB full
+256   64   8   
+256   128  8   
+256   256  8   
+256   4    16  
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+256   8    16  
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+256   16   16  
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+256   32   16  
+system.cpu.rename.ROBFullEvents                324384                       # Number of times rename has blocked due to ROB full
+256   64   16  
+system.cpu.rename.ROBFullEvents                     3                       # Number of times rename has blocked due to ROB full
+256   128  16  
+256   256  16  
+256   4    32  
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+256   8    32  
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+256   16   32  
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+256   32   32  
+system.cpu.rename.ROBFullEvents               2874071                       # Number of times rename has blocked due to ROB full
+256   64   32  
+system.cpu.rename.ROBFullEvents                    56                       # Number of times rename has blocked due to ROB full
+256   128  32  
+system.cpu.rename.ROBFullEvents                     4                       # Number of times rename has blocked due to ROB full
+256   256  32  
+256   4    64  
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+256   8    64  
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+256   16   64  
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+256   32   64  
+system.cpu.rename.ROBFullEvents               2874071                       # Number of times rename has blocked due to ROB full
+256   64   64  
+system.cpu.rename.ROBFullEvents               1030341                       # Number of times rename has blocked due to ROB full
+256   128  64  
+system.cpu.rename.ROBFullEvents                  3528                       # Number of times rename has blocked due to ROB full
+256   256  64  
+256   4    128 
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+256   8    128 
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+256   16   128 
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+256   32   128 
+system.cpu.rename.ROBFullEvents               2874071                       # Number of times rename has blocked due to ROB full
+256   64   128 
+system.cpu.rename.ROBFullEvents               1030341                       # Number of times rename has blocked due to ROB full
+256   128  128 
+system.cpu.rename.ROBFullEvents                829365                       # Number of times rename has blocked due to ROB full
+256   256  128 
+256   4    256 
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+256   8    256 
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+256   16   256 
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+256   32   256 
+system.cpu.rename.ROBFullEvents               2874071                       # Number of times rename has blocked due to ROB full
+256   64   256 
+system.cpu.rename.ROBFullEvents               1030341                       # Number of times rename has blocked due to ROB full
+256   128  256 
+system.cpu.rename.ROBFullEvents                829365                       # Number of times rename has blocked due to ROB full
+256   256  256 
+system.cpu.rename.ROBFullEvents                398323                       # Number of times rename has blocked due to ROB full
+512   4    4   
+system.cpu.rename.ROBFullEvents              12008632                       # Number of times rename has blocked due to ROB full
+512   8    4   
+system.cpu.rename.ROBFullEvents               5194210                       # Number of times rename has blocked due to ROB full
+512   16   4   
+system.cpu.rename.ROBFullEvents                    23                       # Number of times rename has blocked due to ROB full
+512   32   4   
+system.cpu.rename.ROBFullEvents                     2                       # Number of times rename has blocked due to ROB full
+512   64   4   
+512   128  4   
+512   256  4   
+512   4    8   
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+512   8    8   
+system.cpu.rename.ROBFullEvents               7815962                       # Number of times rename has blocked due to ROB full
+512   16   8   
+system.cpu.rename.ROBFullEvents               1586391                       # Number of times rename has blocked due to ROB full
+512   32   8   
+system.cpu.rename.ROBFullEvents                    13                       # Number of times rename has blocked due to ROB full
+512   64   8   
+512   128  8   
+512   256  8   
+512   4    16  
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+512   8    16  
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+512   16   16  
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+512   32   16  
+system.cpu.rename.ROBFullEvents                324384                       # Number of times rename has blocked due to ROB full
+512   64   16  
+system.cpu.rename.ROBFullEvents                     3                       # Number of times rename has blocked due to ROB full
+512   128  16  
+512   256  16  
+512   4    32  
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+512   8    32  
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+512   16   32  
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+512   32   32  
+system.cpu.rename.ROBFullEvents               2874071                       # Number of times rename has blocked due to ROB full
+512   64   32  
+system.cpu.rename.ROBFullEvents                    56                       # Number of times rename has blocked due to ROB full
+512   128  32  
+system.cpu.rename.ROBFullEvents                     4                       # Number of times rename has blocked due to ROB full
+512   256  32  
+512   4    64  
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+512   8    64  
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+512   16   64  
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+512   32   64  
+system.cpu.rename.ROBFullEvents               2874071                       # Number of times rename has blocked due to ROB full
+512   64   64  
+system.cpu.rename.ROBFullEvents               1030341                       # Number of times rename has blocked due to ROB full
+512   128  64  
+system.cpu.rename.ROBFullEvents                  3528                       # Number of times rename has blocked due to ROB full
+512   256  64  
+512   4    128 
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+512   8    128 
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+512   16   128 
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+512   32   128 
+system.cpu.rename.ROBFullEvents               2874071                       # Number of times rename has blocked due to ROB full
+512   64   128 
+system.cpu.rename.ROBFullEvents               1030341                       # Number of times rename has blocked due to ROB full
+512   128  128 
+system.cpu.rename.ROBFullEvents                829365                       # Number of times rename has blocked due to ROB full
+512   256  128 
+512   4    256 
+system.cpu.rename.ROBFullEvents              12008643                       # Number of times rename has blocked due to ROB full
+512   8    256 
+system.cpu.rename.ROBFullEvents               7815963                       # Number of times rename has blocked due to ROB full
+512   16   256 
+system.cpu.rename.ROBFullEvents               4575073                       # Number of times rename has blocked due to ROB full
+512   32   256 
+system.cpu.rename.ROBFullEvents               2874071                       # Number of times rename has blocked due to ROB full
+512   64   256 
+system.cpu.rename.ROBFullEvents               1030341                       # Number of times rename has blocked due to ROB full
+512   128  256 
+system.cpu.rename.ROBFullEvents                829365                       # Number of times rename has blocked due to ROB full
+512   256  256 
+system.cpu.rename.ROBFullEvents                398323                       # Number of times rename has blocked due to ROB full
