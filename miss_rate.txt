@@ -1,1 +1,15 @@
 system.l2.overall_mshr_miss_rate::total      0.411422                       # mshr miss rate for overall accesses
+256   4    4   
+system.l2.overall_mshr_miss_rate::total      0.411392                       # mshr miss rate for overall accesses
+256   8    4   
+system.l2.overall_mshr_miss_rate::total      0.411515                       # mshr miss rate for overall accesses
+256   16   4   
+system.l2.overall_mshr_miss_rate::total      0.411442                       # mshr miss rate for overall accesses
+256   32   4   
+system.l2.overall_mshr_miss_rate::total      0.411442                       # mshr miss rate for overall accesses
+256   64   4   
+system.l2.overall_mshr_miss_rate::total      0.411442                       # mshr miss rate for overall accesses
+256   128  4   
+system.l2.overall_mshr_miss_rate::total      0.411442                       # mshr miss rate for overall accesses
+256   256  4   
+system.l2.overall_mshr_miss_rate::total      0.411442                       # mshr miss rate for overall accesses

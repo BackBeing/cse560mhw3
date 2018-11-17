@@ -1,1 +1,15 @@
 sim_seconds                                  0.003751                       # Number of seconds simulated
+256   4    4   
+sim_seconds                                  0.017686                       # Number of seconds simulated
+256   8    4   
+sim_seconds                                  0.011179                       # Number of seconds simulated
+256   16   4   
+sim_seconds                                  0.010527                       # Number of seconds simulated
+256   32   4   
+sim_seconds                                  0.010527                       # Number of seconds simulated
+256   64   4   
+sim_seconds                                  0.010527                       # Number of seconds simulated
+256   128  4   
+sim_seconds                                  0.010527                       # Number of seconds simulated
+256   256  4   
+sim_seconds                                  0.010527                       # Number of seconds simulated

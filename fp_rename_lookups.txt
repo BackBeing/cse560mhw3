@@ -1,1 +1,15 @@
 system.cpu.rename.fp_rename_lookups                16                       # Number of floating rename lookups
+256   4    4   
+system.cpu.rename.fp_rename_lookups                16                       # Number of floating rename lookups
+256   8    4   
+system.cpu.rename.fp_rename_lookups                16                       # Number of floating rename lookups
+256   16   4   
+system.cpu.rename.fp_rename_lookups                16                       # Number of floating rename lookups
+256   32   4   
+system.cpu.rename.fp_rename_lookups                16                       # Number of floating rename lookups
+256   64   4   
+system.cpu.rename.fp_rename_lookups                16                       # Number of floating rename lookups
+256   128  4   
+system.cpu.rename.fp_rename_lookups                16                       # Number of floating rename lookups
+256   256  4   
+system.cpu.rename.fp_rename_lookups                16                       # Number of floating rename lookups

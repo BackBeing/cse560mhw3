@@ -1,1 +1,12 @@
 system.cpu.rename.ROBFullEvents                398323                       # Number of times rename has blocked due to ROB full
+256   4    4   
+system.cpu.rename.ROBFullEvents              12008632                       # Number of times rename has blocked due to ROB full
+256   8    4   
+system.cpu.rename.ROBFullEvents               5194210                       # Number of times rename has blocked due to ROB full
+256   16   4   
+system.cpu.rename.ROBFullEvents                    23                       # Number of times rename has blocked due to ROB full
+256   32   4   
+system.cpu.rename.ROBFullEvents                     2                       # Number of times rename has blocked due to ROB full
+256   64   4   
+256   128  4   
+256   256  4   

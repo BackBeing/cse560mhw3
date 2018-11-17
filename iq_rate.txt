@@ -1,1 +1,15 @@
 system.cpu.iq.rate                           2.693054                       # Inst issue rate
+256   4    4   
+system.cpu.iq.rate                           0.570958                       # Inst issue rate
+256   8    4   
+system.cpu.iq.rate                           0.903346                       # Inst issue rate
+256   16   4   
+system.cpu.iq.rate                           0.959240                       # Inst issue rate
+256   32   4   
+system.cpu.iq.rate                           0.959242                       # Inst issue rate
+256   64   4   
+system.cpu.iq.rate                           0.959242                       # Inst issue rate
+256   128  4   
+system.cpu.iq.rate                           0.959242                       # Inst issue rate
+256   256  4   
+system.cpu.iq.rate                           0.959242                       # Inst issue rate
