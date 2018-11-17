@@ -1,8 +1,8 @@
 #!/bin/bash
 
-for pf in 256 # 512 1024 2048 4096
+for pf in 256 512 # 1024 2048 4096
 do
-	for iq in 4 # 8 16 32 64 128 256
+	for iq in 4 8 16 32 64 128 256
 	do
 		for rob in 4 8 16 32 64 128 256
 		do
